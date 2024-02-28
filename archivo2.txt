@@ -1,0 +1,8 @@
+print("This is my code")
+
+anios = int(input("Ingresa tu edad: "))
+
+if anios <= 18:
+    print("Eres menor de edad")
+else:
+    print("Eres mayor de edad")
